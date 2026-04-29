@@ -16,11 +16,5 @@ This project analyzes airport operations including flights, passengers, delays, 
 # Dashboard Preview
 <img width="1106" height="806" alt="image" src="https://github.com/user-attachments/assets/2dada655-1cd7-4322-8db3-c3171b225b45" />
 
-
-## Files Included
-- Airport_Dashboard.pbix
-- Dataset.csv
-- Screenshots
-
 # Conclusion
 This dashboard helps in improving airport planning and operational efficiency.
